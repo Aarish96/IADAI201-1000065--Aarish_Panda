@@ -58,3 +58,13 @@ cv2.putText(image, f"Pose: {label_text}", (10, 40), ...)
 
 A new window comes out and shows the output. The new window which was open or which was the testing runs can be closeed by pressing the Q button to stop the video.
 In summary, after setting up the environment and downloading the necessary videos, I created a dataset of pose landmarks from different gestures. Then, I trained a neural network model, tested it on unseen video data, and achieved 100% accuracy in recognizing the gestures. The project is completed by simply pressing Q to terminate the video display.
+
+
+Output:
+
+For walk: ![Screenshot 2024-11-11 122345](https://github.com/user-attachments/assets/8c6c60be-9336-4db5-84ce-bacff8e80cb1)
+
+
+For Running: ![Screenshot 2024-11-11 122707](https://github.com/user-attachments/assets/3a4741c7-52ae-4ca4-85e1-381c5369668b)
+
+Link to the github repositary: https://github.com/Aarish96/IADAI201-1000065-Aarish_Panda
