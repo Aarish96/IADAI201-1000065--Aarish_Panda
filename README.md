@@ -94,6 +94,8 @@ Currently, the model focuses on detecting the pose of a single individual. Expan
 In conclusion, this pose detection system has the potential to evolve from a gesture recognition tool into a sophisticated platform that can be used in industries ranging from fitness and sports to healthcare, gaming, and entertainment. With the advancements in AI, sensor technologies, and real-time processing, the possibilities are vast for future development.
 
 
+Screeshots of my confusion_matrices and my F1 score :- 
+![WhatsApp Image 2024-11-12 at 21 50 52_469410c0](https://github.com/user-attachments/assets/4b1fe27f-7b5e-4014-9aba-896ac9bf95bd)
 
 
 
